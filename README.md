@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## TO-DO LIST APPLICATION
 
-This project is a starting point for a Flutter application.
+To-Do list app that allows users to add, edit, and delete tasks.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240612_184734](https://github.com/aravind14e/PROGIDY_AD_2/assets/164623835/cd326e2c-623b-4fd0-9506-4fece307ff9a)
